@@ -1,35 +1,54 @@
-# 📑 WHITEPAPER: RICKY BRUT ($BRUT) CORE PROTOCOL
-
-## 1. Pendahuluan
-Ricky Brut dirancang untuk menciptakan ekonomi token yang adil melalui metode distribusi *Proof-of-Activity* (Mining). Seluruh supply awal didistribusikan kepada komunitas, bukan melalui penjualan privat.
-
-## 2. Mekanisme Mining (Daily Extraction)
-Algoritma kontrak memastikan distribusi yang adil:
-- **Klaim Harian**: 100 BRUT per 24 jam per alamat dompet unik.
-- **Mekanisme Halving**: Hadiah mining dipotong 50% setiap kali supply baru mencapai kelipatan 5.000 BRUT untuk menekan inflasi.
-- **On-Chain Transparency**: Semua proses klaim tercatat di BNB Smart Chain.
-
-## 3. Receptor Staking (Passive Yield)
-Protokol staking memberikan insentif jangka panjang bagi pemegang token:
-- **APR**: 10% tetap (Fixed).
-- **Perhitungan**: Bunga dihitung secara *real-time* per detik.
-- **Flexibility**: Pengguna dapat melakukan *Claim* atau *Withdraw* kapan saja.
-
-## 4. Smart Tax & Deflasi
-Setiap transaksi (Transfer/Kirim) dikenakan pajak sebesar **0.1%**.
-- **Alokasi**: Dana pajak dikirim ke dompet operasional untuk mendanai hadiah staking dan pemeliharaan server.
-- **Tujuan**: Menjaga stabilitas ekosistem tanpa membebani trader dengan pajak tinggi.
-
-## 5. Strategi Likuiditas & Grand Launch
-Proyek saat ini berada dalam fase **Community Accumulation**. 
-- **Maret 2027**: Penambahan likuiditas sebesar **Rp1.000.000+**.
-- **Burn LP**: Token likuiditas akan dibakar secara permanen untuk menjamin keamanan dana komunitas di PancakeSwap.
-
-## 6. Detail Teknologi
-- **Core**: Solidity v0.8.20 (OpenZeppelin Standards).
-- **Frontend**: React.js, Vite, Tailwind CSS.
-- **Integrasi**: Ethers.js v6 untuk interaksi dompet Web3.
+# 📄 WHITEPAPER: RICKY BRUT ($BRUT) - CORE PROTOCOL
+### Quantum Mining Protocol & Community-Driven Ecosystem
+**Version:** 1.0 (2026) | **Network:** BNB Smart Chain (BSC)
 
 ---
-**⚠️ DISCLAIMER**
-Investasi kripto memiliki risiko. Lakukan riset mandiri (DYOR). Penambahan likuiditas dijadwalkan pada Maret 2027 sesuai roadmap.
+
+## 1. INTRODUCTION
+**Ricky Brut ($BRUT)** is a decentralized finance (DeFi) protocol designed to establish a fair and transparent token economy. By utilizing the **Proof-of-Activity (Mining)** method, the entire initial supply is distributed directly to the community through active participation rather than private sales or pre-allocations.
+
+## 2. QUANTUM MINING MECHANISM (Daily Extraction)
+Our smart contract ensures a fair and decentralized distribution:
+*   **Daily Claim:** Each unique wallet address is eligible to extract **100 BRUT every 24 hours**.
+*   **Halving Algorithm:** To combat inflation, mining rewards are automatically reduced by **50%** for every **5,000 BRUT** added to the circulating supply.
+*   **On-Chain Transparency:** Every extraction process is recorded permanently on the BNB Smart Chain for public verification.
+
+## 3. RECEPTOR STAKING (Passive Yield)
+The staking protocol provides long-term incentives for token holders:
+*   **Fixed APR:** **10%** (Fixed Annual Percentage Rate).
+*   **Real-time Earnings:** Rewards are calculated per second and accrue in real-time.
+*   **Flexibility:** Users maintain full control with the ability to **Claim** or **Withdraw** their staked assets at any time.
+
+## 4. SMART TAX & DEFLATION
+A minimal **0.1% tax** is applied to every transaction (Transfer/Send):
+*   **Allocation:** Tax proceeds are sent to the operational wallet to fund staking rewards and infrastructure maintenance.
+*   **Purpose:** Maintaining ecosystem stability without burdening traders with high slippage or aggressive taxes.
+
+## 5. LIQUIDITY STRATEGY & GRAND LAUNCH
+The project is currently in the **Community Accumulation Phase**:
+*   **March 2027:** Initial liquidity of **$60+ USD (Equivalent in BNB)** will be added to PancakeSwap.
+*   **LP Burn:** Liquidity Provider (LP) tokens will be burned permanently to guarantee community safety and prevent "rug pulls."
+
+## 6. TECHNICAL SPECIFICATIONS
+*   **Smart Contract:** Solidity v0.8.20 (OpenZeppelin Standards).
+*   **Frontend:** React.js, Vite, Tailwind CSS.
+*   **Integration:** Ethers.js v6 for secure Web3 interaction.
+
+---
+
+
+| Token Attribute | Details |
+| :--- | :--- |
+| **Name** | Ricky Brut |
+| **Symbol** | $BRUT |
+| **Max Supply** | 21,000,000 |
+| **Contract** | `0x13597C6F66819a9daAB28ab97097ea5E5605561D` |
+
+---
+
+## ⚠️ DISCLAIMER
+Crypto investments carry high risks. This project is in its early community accumulation stage. Liquidity addition is scheduled for March 2027 according to the roadmap. Always **Do Your Own Research (DYOR)** before participating.
+
+<p align="center">
+  <b>RICKY BRUT TEAM © 2026</b>
+</p>
