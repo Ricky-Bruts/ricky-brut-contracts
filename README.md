@@ -2,7 +2,7 @@
 
 ![Banner](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-banner.jpeg)
 ![Img](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-image.jpg)
-![Svg](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-logo.svg)
+![Png](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/logo-256.png)
 
 **Ricky Brut ($BRUT)** adalah ekosistem DeFi revolusioner di jaringan **BNB Smart Chain** yang menggabungkan mekanisme *Daily Mining*, *Yield Staking*, dan *Smart Deflationary Tax*. 
 
