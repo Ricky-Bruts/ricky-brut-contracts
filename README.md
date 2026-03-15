@@ -1,8 +1,8 @@
 # 💎 RICKY BRUT ($BRUT) - QUANTUM MINING PROTOCOL 💎
 
-![Banner](https://img.shields.io)
-![Status](https://img.shields.io)
-![UI](https://img.shields.io)
+![Banner](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-banner.jpeg)
+![Img](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-image.jpg)
+![Svg](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-logo.svg)
 
 **Ricky Brut ($BRUT)** adalah ekosistem DeFi revolusioner di jaringan **BNB Smart Chain** yang menggabungkan mekanisme *Daily Mining*, *Yield Staking*, dan *Smart Deflationary Tax*. 
 
